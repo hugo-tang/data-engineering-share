@@ -1,6 +1,8 @@
 
-#Default route
-localhost:3000
+#Data Engineering repo
+#Hugo TANG - M2 APP LSI2 - Group BDLM 1
 
-#Connect to mysql database
-localhost:3000/connect
+Data engineering lab's repo
+
+- Lab 1 : NodeJS-/-MySQL---Docker
+- Lab 2 : python/server
