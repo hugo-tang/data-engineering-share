@@ -5,4 +5,6 @@
 Data engineering lab's repo
 
 - Lab 1 : NodeJS-/-MySQL---Docker
-- Lab 2 : python/server
+#Default route localhost:3000
+
+#Connect to mysql database localhost:3000/connect
